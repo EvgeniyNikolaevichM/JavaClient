@@ -6,6 +6,6 @@ public class Main {
         double num2 = 2;
         double multi = Proxy.Multiplication(num1, num2);
 
-        System.out.printf("Произведение " + num1 + " и " + num2 + " равно " + multi);
+        System.out.printf("Proizvedenie " + num1 + " i " + num2 + " ravno " + multi);
     }
 }
